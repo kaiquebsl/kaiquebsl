@@ -1,4 +1,4 @@
-# Kaique B.
+# Kaique Brazil.
 
 Software engineer focused on backend systems, with strong experience in **MMORPG-related projects** and real-time services.
 
